@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Scratch/scg015/GIT/SGD240_Task3_Artefact/SGD240_Task3_Artefact/SGD240_Task3/Content/Dungeon/TestRoom_2.uasset",
+				"C:/Scratch/scg015/GIT/SGD240_Task3_Artefact/SGD240_Task3_Artefact/SGD240_Task3/Content/Dungeon/RoomGenerator.uasset",
 				"G:/Projects/GIT/SGD240_Task3_Artefact/SGD240_Task3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset",
 				"G:/Projects/GIT/SGD240_Task3_Artefact/SGD240_Task3/Content/Dungeon/RoomTemplate.uasset",
 				"G:/Projects/GIT/SGD240_Task3_Artefact/SGD240_Task3/Content/Dungeon/RoomGenerator.uasset",
